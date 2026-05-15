@@ -56,9 +56,14 @@ Cada ejercicio incluye:
 ---
 
 # 📁 Estructura del repositorio
+```
 
-```text
-/class-diagram-twitter
-/use-case-twitter
-/state-machine-xxx
-/sequence-xxx
+├── README.md
+│
+├── twitter/
+│   ├── Diagrama de caso de uso.md
+│   │── Diagrama de Clases.md
+│   │── Twitter-clases.png
+|   |── Twitter-uso.png
+│
+```

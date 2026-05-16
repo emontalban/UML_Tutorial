@@ -75,6 +75,6 @@ Cada ejercicio incluye:
 ├── Libreria/
 │   ├── Diagrama de paquete.md
 │   │── Diagrama de secuencia.md
-│   │── Ecommerce-clases.png
-|   |── Ecommerce-uso.png
+│   │── Libreria-paquete.png
+|   |── Libreria-secuencia.png
 ```

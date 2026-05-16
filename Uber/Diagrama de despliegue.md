@@ -16,7 +16,7 @@ El objetivo es mostrar la arquitectura de despliegue de la aplicación móvil, i
 
 --- 
 
-![Diagrama de despliegue](uber-despliegue)
+![Diagrama de despliegue](uber-despliegue.png)
 
 Este diagrama de despliegue representa la arquitectura básica de la aplicación móvil de Uber para Android y muestra cómo se distribuyen e interactúan los componentes principales del sistema. El modelo se centra en la relación entre el dispositivo móvil, el entorno de ejecución Android y la API que permite la comunicación con los servicios externos.
 

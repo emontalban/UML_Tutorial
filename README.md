@@ -12,8 +12,15 @@ Este repositorio contiene un sistema completo de aprendizaje UML.
 
 ## 🚀 Empezar
 
-- 👉 [Ir a la Pagina de inicio](../../wiki)
-- 👉 [Ejercicios UML](./exercises)
+- 👉 [Ir a la Pagina de inicio](https://github.com/emontalban/UML_Tutorial/wiki)
+- 👉 Ejercicios UML  
+    - ➡️ [Academia](./Academia)
+    - ➡️ [Ecommerce](./Ecommerce)
+    - ➡️ [Empresa Gestion De Flota](./Empresa-Gestion-De-Flota)
+    - ➡️ [Libreria](./Libreria)
+    - ➡️ [Twitter](./Twitter)
+    - ➡️ [Uber](./Uber)
+    - ➡️ [Academia](./Academia)
 
 
 # 📦 UML Exercise Repository
